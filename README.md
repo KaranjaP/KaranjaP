@@ -23,14 +23,14 @@ I'm currently expanding my data science and cloud skills while building projects
 #### Data Analysis & BI
 Excel · SQL · Power BI · Tableau
 
-#### Programming
+#### Programming & Data Science
 Python · Pandas · NumPy · Scikit-learn
 
 #### Statistics & Machine Learning
 Statistical Analysis · A/B Testing · Predictive Modelling · Regression
 
-#### Data & Cloud
-Data Cleaning · Data Transformation · Data Visualization . 
+#### Development & Collabolation
+Git · GitHub
 
 ## 🌱 Currently Learning 
-- Cloud data warehousing with Google BigQuery.
+- Cloud data platforms with Google BigQuery and Databricks
