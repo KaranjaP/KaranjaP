@@ -1,28 +1,19 @@
 ## Hi there, I am Peter 👋
 
-<div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Data+Scientist;Business+Intelligence;Raw+Data+into+Actionable+Insights" alt="Typing SVG" />
-</div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;SQL+%7C+Python+%7C+Power+BI;Turning+Data+into+Actionable+Insights" alt="Typing SVG" /> </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
-<p align="center">
-  <a href="https://linkedin.com/in/peter-karanja-n/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:karanapetern@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
-</p>
+<p align="center"> <a href="https://linkedin.com/in/peter-karanja-n/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"> </a> <a href="mailto:karanapetern@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"> </a> </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a data analyst focused on turning raw data into practical business insights. I work primarily with SQL, Python, Excel, and Power BI to clean and analyze data, build dashboards, identify trends, and communicate findings clearly.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My interests include business intelligence, data automation, statistical analysis, and predictive modelling. I'm particularly interested in using data to improve decision-making, measure performance, and uncover opportunities for improvement.
 
-When I'm not working with data, I enjoy learning and reading tech content. I love the "aha!" moment when data reveals something new and useful.
+I'm currently expanding my data science and cloud skills while building projects that demonstrate the full process from raw data to actionable insight.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://KaranjaP.github.io/)
       
-## 🔭 What I'm Currently Working On 
+## 🔭 Featured Projects
 
 - **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
