@@ -1,8 +1,13 @@
 ## Hi there, I am Peter 👋
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Turning+Data+into+Actionable+Insights" alt="Typing SVG" /> </div>
-
-<p align="center"> <a href="https://linkedin.com/in/peter-karanja-n/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"> </a> <a href="mailto:karanapetern@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/peter-karanja-n/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=karanapetern@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ## 🚀 About Me 
 I'm a data analyst focused on turning raw data into practical business insights. I work primarily with SQL, Python, Excel, and Power BI to clean and analyze data, build dashboards, identify trends, and communicate findings clearly.
