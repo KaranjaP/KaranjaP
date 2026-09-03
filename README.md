@@ -11,7 +11,7 @@ My interests include business intelligence, data automation, statistical analysi
 
 I'm currently expanding my data science and cloud skills while building projects that demonstrate the full process from raw data to actionable insight.
 
-### [🏆 Check Out My Full Portfolio Website](https://KaranjaP.github.io/)
+### [🏆 Check Out My Portfolio Website](https://KaranjaP.github.io/)
       
 ## 🔭 Featured Projects
 
