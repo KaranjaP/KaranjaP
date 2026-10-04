@@ -15,7 +15,7 @@ I'm currently expanding my data science and cloud skills while building projects
       
 ## 🔭 Featured Projects
 
-- **Project A:** Built an interactive Online Sales Dashboard in Streamit App using Python
+- **Project A:** Built an interactive Online Sales Dashboard in Streamlit App using Python
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 
 ## 🛠️ Technical Skills
