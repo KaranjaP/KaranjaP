@@ -1,6 +1,6 @@
 ## Hi there, I am Peter 👋
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Analytical+%7C+Proactive+%7C+Sol'n-Focused" alt="Typing SVG" /> </div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Analytical.+Proactive.+Sol'n-Focused" alt="Typing SVG" /> </div>
 
 <p align="center"> <a href="https://linkedin.com/in/peter-karanja-n/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"> </a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=karanapetern@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"> </a> </p>
 
