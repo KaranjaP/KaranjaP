@@ -1,7 +1,7 @@
 ## Hi there, I am Peter 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=2E9EF7&center=true&vCenter=true&width=430&lines=Data+Analyst+%7C+Business+Intelligence;Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Analytical.+Proactive.+Solution-Focused"
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=2E9EF7&center=true&vCenter=true&width=430&lines=Data+Analyst+%7C+Business+Intelligence;Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Analytical+.+Proactive+.+Solution-Focused"
        alt="Typing SVG" />
 </div>
 
